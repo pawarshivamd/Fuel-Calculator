@@ -1,4 +1,3 @@
-import './App.css'
 import FuelCalculator from './components/FuelCalculator'
 
 function App() {
